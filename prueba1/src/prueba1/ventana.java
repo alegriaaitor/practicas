@@ -13,6 +13,7 @@ public class ventana extends JFrame{
 
 	public static void main(String[] args) {
 		new ventana();
+		System.out.println("Hola mundo");
 
 	}
 
